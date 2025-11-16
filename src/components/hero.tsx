@@ -15,7 +15,7 @@ export default function Hero() {
   return (
     <>
       <section className="py-12 sm:py-20">
-        <div className="max-w-2xl mx-auto flex flex-col justify-center text-center">
+        <div className="max-w-sm md:max-w-2xl mx-auto flex flex-col justify-center text-center">
           <div className="text-sm px-4 py-1 text-blue-500 border-blue-300 bg-blue-600/5 shadow shadow-blue-100 border rounded-full w-fit mx-auto flex items-center gap-2">
             <svg
               xmlns="http://www.w3.org/2000/svg"
